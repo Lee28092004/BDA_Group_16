@@ -70,7 +70,6 @@ if(n_killed >= 4, "Mass Casualty",
 ### Step 5 – Set Role
 - Set `severity` as the **Label** (target variable) for modelling
 
----
 
 ## ✅ Cleaned Dataset Summary
 
@@ -79,15 +78,6 @@ if(n_killed >= 4, "Mass Casualty",
 | Columns | 13 (12 features + 1 label) |
 | Target variable | `severity` (Mass Casualty / Low Casualty / No Casualty) |
 | Missing values | None |
-
----
-
-## 👥 Team Task Split
-
-| Member | Tasks |
-| Member 1 | Abstract, Introduction (Background), Literature Review, Data Collection & Selection, Classification Model (severity prediction), Results & Discussion|
-| Member 2 | Introduction (Problem Statement), Literature Review, Data Cleaning & Preprocessing, Regression Model (victims killed), Results & Discussion |
-| Member 3 | Introduction (Outline), Literature Review, EDA & Visualizations, Regression Model (victims injured), Results & Discussion, Conclusion |
 
 
 ## ⚠️ Notes for Teammates
